@@ -1,0 +1,66 @@
+/*1 y 2*/
+body{
+  background-color: rgba(0, 0, 0, 0.91);
+}
+.redes:hover{
+  width: 30px;
+}
+.areas{
+    background-color: rgb(219, 219, 219);
+}
+.inicioCaja{
+  min-height: 70px;
+  max-height: 120px;
+}
+.inicioCaja ul{
+  margin-top: 90px;
+}
+/*3*/
+.items{
+  background-color: rgba(71, 122, 190, 0.8);
+  padding: 5px;
+  color: white;
+}
+.items:hover{
+  background-color: rgba(71, 122, 190, 0.8);
+  padding: 5px;
+  font-size: 20px;
+}
+/*4*/
+.imagen{
+  width: 80%;
+  height: 80%;
+  margin: 15px;
+}
+.box1{
+  background-color: rgb(252, 251, 102);
+}
+.box2{
+  background-color: rgb(181, 180, 50);
+  padding: 10px;
+}
+.box3{
+  background-color: rgba(69, 69, 42, 0.59);
+  padding: 10px;
+}
+/* 6 */
+.busquedas{
+  padding: 10px;
+  width: 100%;
+}
+.listado{
+  padding:10px;
+  margin: 0;
+  border-bottom: 1px solid white;
+  border-left: 1px solid white;
+  color: white;
+}
+.listado:hover{
+  padding:10px;
+  margin: 0;
+  border-bottom: 1px solid black;
+  background-color: transparent !important;
+  color: white;
+  font-size: 19px;
+  border-bottom: 2px solid white;
+}
