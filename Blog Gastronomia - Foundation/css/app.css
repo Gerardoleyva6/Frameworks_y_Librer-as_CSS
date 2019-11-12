@@ -1,0 +1,70 @@
+/*1*/
+body{
+  background-image: url(../img/fondo.jpg);
+  background-repeat: repeat-y;
+}
+.vertical{
+  border-right: 1px solid white;
+}
+.horizontal{
+  border-top: 1px solid white;
+}
+.backs{
+  background-color: rgba(143, 141, 147, 0.6);
+}
+/*3 y 5*/
+.menu{
+  border: 1px solid rgb(226, 240, 225);
+  font-size: 20px;
+  color: white;
+  margin: 0 !important;
+  border-right: none;
+}
+.menu a{
+  color: white;
+}
+.menu p{
+  margin-bottom: 0 !important;
+}
+.izq{
+  background-color: rgb(25, 59, 111);
+}
+.fav{
+  color: white;
+}
+.images{
+  padding: 15px;
+}
+
+/*Comentarios*/
+.comen{
+  background-color: rgba(94, 130, 172, 0.64);
+  border: 1px solid black;
+}
+.comen p{
+  padding: 0;
+  margin: 0 !important;
+}
+.histback{
+  background-color: rgb(230, 81, 34);
+}
+.hist{
+  border: 1px solid rgb(226, 240, 225);
+  font-size: 20px;
+  color: white;
+  margin: 0 !important;
+  border-right: none;
+}
+.hist:hover{
+  border: 1px solid rgb(226, 240, 225);
+  font-size: 24px;
+  color: white;
+  margin: 0 !important;
+  border-right: none;
+}
+.hist a{
+  color: white;
+}
+.hist p{
+  margin-bottom: 0 !important;
+}
