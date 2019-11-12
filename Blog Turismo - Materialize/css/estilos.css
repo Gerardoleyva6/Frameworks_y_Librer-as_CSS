@@ -1,0 +1,15 @@
+body{
+  background-image: url(../img/back.jpg);
+  background-repeat: repeat-y;
+}
+
+.logo{
+  width: 50% !important;
+}
+.nav-wrapper{
+  height: 160px !important;
+}
+/*redes*/
+.ico{
+  width: 60% !important;
+}
